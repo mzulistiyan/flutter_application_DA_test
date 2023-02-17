@@ -1,0 +1,136 @@
+{
+    "notifications": [
+
+        
+        {
+            "name":  "Anggi Nui", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/86.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Bayu Gatra", 
+            "profilePic":  "https://randomuser.me/api/portraits/women/47.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Budi Setiawan", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Angga Sulistina", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Anggi Nui", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/86.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Bayu Gatra", 
+            "profilePic":  "https://randomuser.me/api/portraits/women/47.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Budi Setiawan", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Angga Sulistina", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Anggi Nui", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/86.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Bayu Gatra", 
+            "profilePic":  "https://randomuser.me/api/portraits/women/47.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Budi Setiawan", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Angga Sulistina", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Anggi Nui", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/86.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Bayu Gatra", 
+            "profilePic":  "https://randomuser.me/api/portraits/women/47.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Budi Setiawan", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Angga Sulistina", 
+            "profilePic":  "https://randomuser.me/api/portraits/men/46.jpg", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/originals/fd/85/61/fd8561d35a6e4ba8dca779c47db9cf51.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        }
+        
+        
+    ]    
+}
