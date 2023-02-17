@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+7 POINT SUCCESS(Semua Dikerjakan)
+
+
 LINK : https://drive.google.com/file/d/1YVvJ7TVgBsFfIuv5sJ1gEytQeTTNRUXy/view?usp=share_link
 
 
